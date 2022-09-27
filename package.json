@@ -1,0 +1,22 @@
+{
+  "name": "liveco",
+  "version": "1.0.0",
+  "description": "## Exercice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GorskiAnthony/wcs_first_install_package.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GorskiAnthony/wcs_first_install_package/issues"
+  },
+  "homepage": "https://github.com/GorskiAnthony/wcs_first_install_package#readme",
+  "dependencies": {
+    "w3c-html-validator": "^1.1.3"
+  }
+}
